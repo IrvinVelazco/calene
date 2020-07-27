@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">CalEne 4</string>
+
+    <string name="mostrar">Mostrar</string>
+    <string name="ocultar">ocultar</string>
+    <string name="tensiones">Tensiones</string>
+    <string name="corrientes">Corrientes</string>
+    <string name="valorEficaz">Valor eficaz (RMC o CA)</string>
+    <string name="valorMedio">Valor medio (promedio o CD)</string>
+    <string name="valorMaximo">Valor máximo</string>
+    <string name="idioma">Idioma</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="cambiarIdioma">cambiar el idioma reiniciará la alicación, ¿desea continuar?</string>
+    <string name="faseA">Fase A</string>
+    <string name="faseB">Fase B</string>
+    <string name="faseC">Fase C</string>
+    <string name="valormin">Valor mínimo</string>
+    <string name="frecuencia">Frecuencia</string>
+    <string name="thd">Distorsión armonica total (DAT)</string>
+    <string name="factorDeDistorsion">Factor de distorsión</string>
+    <string name="cofactordedistorsion">Cofactor de distorsión</string>
+    <string name="caim">Componente armónico individual máximo (CAIM)</string>
+    <string name="trifasico">Trifásica</string>
+    <string name="potenciaAparente">Potencia aparente</string>
+    <string name="potenciaReactiva">Potencia reactiva</string>
+    <string name="potenciaActiva">Potencia activa</string>
+    <string name="potenciaDistorsionada">Potencia Distorsionada</string>
+    <string name="fpdes">Factor de potencia de desplazamiento</string>
+    <string name="fpdis">Factor de potencia de distorsión</string>
+    <string name="fptot">Factor de potencia total</string>
+    <string name="potencias">Potencias</string>
+    <string name="sindatos">Activa alguna de las señales de la parte inferior</string>
+    <string name="imaginarios">Imaginario</string>
+    <string name="reale">Real</string>
+    <string name="magnitud">Magnitud</string>
+    <string name="angulo">Ángulo</string>
+    <string name="factordepotenciadedistorsion">Factor de potencia de distorsión</string>
+    <string name="factordepotenciadedesplazamiento">Factor de potencia de desplazamiento</string>
+    <string name="factordepotenciatotal">Factor de potencia total</string>
+    <string name="autoCompensarDesfasamiento">Compensar desfasamiento entre las señales de entrada</string>
+    <string name="compensar">Compensar</string>
+    <string name="estasSeguroDeRealizarElCambio">¿Estás seguro de realizar este cambio?</string>
+    <string name="editar">Editar</string>
+    <string name="escala">Escala de entradas</string>
+    <string name="Compensarcd">Compensar componente de CC</string>
+    <string name="incluirValoresPropios">Incluir valor propios</string>
+    <string name="suavizarSeñalesDeEntrada">Suavizar señales de entrada</string>
+
+
+</resources>
